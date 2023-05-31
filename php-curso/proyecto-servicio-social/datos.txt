@@ -1,0 +1,8 @@
+name: personas
+username: ivan
+pass: Databasecontra90.
+
+
+https://www.php.net/manual/es/function.time.php
+
+INSERT INTO `alumno` (`nombre`, `codigo`, `carrera`, `horas`) VALUES ('pedro camotes', '215444197', 'INNI', '99:00:00');
